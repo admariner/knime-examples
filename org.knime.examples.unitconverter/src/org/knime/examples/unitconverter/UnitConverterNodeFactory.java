@@ -62,6 +62,7 @@ public final class UnitConverterNodeFactory extends DefaultNodeFactory {
                    Extend the ParameterArray to support further conversions
                    by simply adding new items in the dialog.
                    """) //
+        .sinceVersion(5, 5, 0)
         .ports(p -> p//
             .addInputTable("Input table", "Table with column(s) to convert") //
             .addOutputTable("Output table", "Table with converted columns") //
