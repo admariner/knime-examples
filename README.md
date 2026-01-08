@@ -8,7 +8,7 @@ This repository contains example implementations for nodes in KNIME Analytics Pl
 * _python_: Example containing a reference implementation of the unit converter node in Python.
 
 ### Development
-Instructions for how to develop extensions for KNIME Analytics Platform can be found in the _knime-sdk-setup_ repository on [BitBucket](https://bitbucket.org/KNIME/knime-sdk-setup) or [GitHub](http://github.com/knime/knime-sdk-setup).
+Instructions for how to develop extensions for KNIME Analytics Platform can be found in the _knime-sdk-setup_ repository on [GitHub](https://github.com/knime/knime-sdk-setup).
 
 ### Join the Community!
 * [KNIME Forum](https://tech.knime.org/forum)
