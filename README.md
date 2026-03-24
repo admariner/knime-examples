@@ -1,5 +1,7 @@
 # ![KNIME® logo](https://www.knime.com/sites/default/files/knime_logo_github_40x40_4layers.png) KNIME® Analytics Platform - Example Node Implementations
 
+This repository is maintained by the [KNIME Core Development Team](mailto:ap-core@knime.com).
+
 ### Content
 This repository contains example implementations for nodes in KNIME Analytics Platform nodes. 
 
