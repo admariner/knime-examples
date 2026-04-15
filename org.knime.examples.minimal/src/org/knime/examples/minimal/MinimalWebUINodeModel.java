@@ -51,8 +51,8 @@ import org.knime.core.node.BufferedDataTable;
 import org.knime.core.node.ExecutionContext;
 import org.knime.core.node.InvalidSettingsException;
 import org.knime.core.node.KNIMEException;
-import org.knime.core.webui.node.impl.WebUINodeConfiguration;
-import org.knime.core.webui.node.impl.WebUINodeModel;
+import org.knime.node.parameters.legacy.nodeimpl.WebUINodeConfiguration;
+import org.knime.node.parameters.legacy.nodeimpl.WebUINodeModel;
 
 /**  Node Model for a minimal node that can be used as a template for developing new nodes. */
 @SuppressWarnings("restriction")

@@ -49,8 +49,8 @@ package org.knime.examples.minimal;
 import org.knime.core.data.DataTableSpec;
 import org.knime.core.data.container.ColumnRearranger;
 import org.knime.core.node.InvalidSettingsException;
-import org.knime.core.webui.node.impl.WebUINodeConfiguration;
-import org.knime.core.webui.node.impl.WebUISimpleStreamableFunctionNodeModel;
+import org.knime.node.parameters.legacy.nodeimpl.WebUINodeConfiguration;
+import org.knime.node.parameters.legacy.nodeimpl.WebUISimpleStreamableFunctionNodeModel;
 
 /** Node Model for a minimal streamable node that can be used as a template for developing new nodes. */
 @SuppressWarnings("restriction")

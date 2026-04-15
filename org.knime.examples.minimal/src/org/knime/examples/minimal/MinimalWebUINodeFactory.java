@@ -47,8 +47,8 @@
 package org.knime.examples.minimal;
 
 import org.knime.core.node.BufferedDataTable;
-import org.knime.core.webui.node.impl.WebUINodeConfiguration;
-import org.knime.core.webui.node.impl.WebUINodeFactory;
+import org.knime.node.parameters.legacy.nodeimpl.WebUINodeConfiguration;
+import org.knime.node.parameters.legacy.nodeimpl.WebUINodeFactory;
 
 /** Node Factory for a minimal node that can be used as a template for developing new nodes. */
 @SuppressWarnings("restriction")
